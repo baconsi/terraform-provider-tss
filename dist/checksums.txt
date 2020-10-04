@@ -1,0 +1,5 @@
+17a39cf7604c7c3b30a8746c820124f7311e9052e80297f1809ac80b62f6a10c  terraform-provider-tss_1.0.0_windows_x86_64.tar.gz
+494314179ff5c44d73e2a0cc0093c70dc4dd22a40e91812ab26f03bba6710657  terraform-provider-tss_1.0.0_Darwin_x86_64.tar.gz
+9a5f259fb97e09c8c5aae01c8bcd7b7b4103d550a5390ff7413cb371ae18b9f0  terraform-provider-tss_1.0.0_Linux_x86_64.tar.gz
+cfa582572c06d2bbd8ad5a5cb97ce0d4e1aef74a665e005a97ac5db9e3af1b26  terraform-provider-tss_1.0.0_Linux_386.tar.gz
+dbcb3bd282d5a021578e0fafe49297292531d219bb6a3037e0bb6eb1453fed41  terraform-provider-tss_1.0.0_windows_386.tar.gz
